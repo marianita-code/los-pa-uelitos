@@ -1,2 +1,2 @@
-# los-pa-uelitos
-No trabajo con pañuelos pero si lo hiciera, asi de mal iria
+# los-pañuelitos
+Para crear un programa funcional que registre los datos de una tienda de pañuelos se deben de tener en cuenta cuales son los datos a evaluar. El primer dato sería cuál es la cantidad total de pañuelos en la tienda. A partir de ese dato se analizan los tipos de pañuelos, es decir, el material del que esta hecho cada uno, sus tamaños y sus colores. Según cada pañuelo el precio cambiaría, por lo que también habría que tener constancia de sus precios. Teniendo el inventario lo siguiente sería analizar el precio de compra y el precio de venta; así, una vez acabado el día se analiza el ingreso total y se le resta el precio de compra para conocer el valor de las utilidades. De forma general, esos serían los datos más importantes para un programa que registre lo que el dueño de la tienda debería registrar al final del día. 
